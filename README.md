@@ -5,6 +5,10 @@
 2º)Activa las Github Pages (hosting de github)
 
 3º)Añádele el fichero de inicio. En él aparecerá una tabla html con las siguientes columnas: nombre y apellidos, usuariogithub, enlace al hosting de este repositorio HolaMundo de  github.
+    1-nombre y apellidos del alumno
+    2-usuariogithub
+    3-enlace al repositorio HolaMundo de github
+    4-enlace al hosting de este repositorio HolaMundo de github.
 
 4º)Añade el fichero style.css en la carpeta css. 
 
